@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @AjnoEO
 - 👀 I’m interested in linguistics and mathematics
-- 🌱 I’m currently learning Kotlin
+- ✨ I speak Russian, English, Esperanto, some Japanese and Bulgarian, C++, and Python
+- 🌱 I’m currently learning JavaScript
 - 📫 How to reach me:
--   vk:       @ajnoeo
--   telegram: @ajnoeo
--   discord:  Ajno#6844
+-   VK:       @ajnoeo
+-   Telegram: @ajnoeo
+-   Discord:  ajno.
 
 <!---
 AjnoEO/AjnoEO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
