@@ -3,9 +3,9 @@
 - ✨ I speak Russian, English, Esperanto, some Japanese and Bulgarian, and Python
 - 🌱 I’m currently learning whatever the uni teaches me lol
 - 📫 How to reach me:
-*   VK:       @ajnoeo
-*   Telegram: @ajnoeo
-*   Discord:  ajno.
+  * VK:       @ajnoeo
+  * Telegram: @ajnoeo
+  * Discord:  ajno.
 
 <!---
 AjnoEO/AjnoEO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
