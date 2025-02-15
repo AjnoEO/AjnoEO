@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AjnoEO
+- 👋 Hi, I’m @AjnoEO / Artiom Boyko
 - 👀 I’m interested in linguistics and mathematics
-- ✨ I speak Russian, English, Esperanto, some Japanese and Bulgarian, C++, and Python
-- 🌱 I’m currently learning JavaScript
+- ✨ I speak Russian, English, Esperanto, some Japanese and Bulgarian, and Python
+- 🌱 I’m currently learning whatever the uni teaches me lol
 - 📫 How to reach me:
 *   VK:       @ajnoeo
 *   Telegram: @ajnoeo
