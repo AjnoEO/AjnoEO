@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AjnoEO / Artiom Boyko
 - 👀 I’m interested in linguistics and mathematics
-- ✨ I speak Russian, English, Esperanto, some Japanese and Bulgarian, and Python
+- ✨ I speak Russian, English, Esperanto, some Japanese, French, Bulgarian, Russian Sign Language, and Python
 - 🌱 I’m currently learning whatever the uni teaches me lol
 - 📫 How to reach me:
   * VK:       @ajnoeo
